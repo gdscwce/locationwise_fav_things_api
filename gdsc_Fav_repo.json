@@ -58,6 +58,36 @@
    
    
        }
+     {
+
+     "id":0,
+    "location": "sangli",    
+    
+
+    "fav_things":[
+        { "id":0,
+        "name": "Rutuja Pol",
+        "food":"Idli",
+        "place": "Ichalkaranji",
+        "shops": "Idli house",
+        "mall":"Fortune",
+        "restuarant":"Shravani",
+        "date":"30/9/2022"
+       },
+       { "id":1,
+        "name": "Rutuja Pol",
+        "food":"Pizza",
+        "place": "Ichalkaranji",
+        "shops": "Beyond temptation",
+        "mall":"Fortune",
+        "restuarant":"Banana leaf",
+        "date":"30/9/2022"
+       }
+      ]
+
+
+    },
+
 ]
 
 
